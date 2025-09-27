@@ -1,12 +1,13 @@
 # 🗳️ Voting App
 
-🎬 **Demo Video:** [Watch Demo](https://drive.google.com/file/d/1H-zpHaozdFWOgf1uYRU5SupaVFUqDRIo/view?usp=drive_link)
-
 A simple and beginner-friendly **MERN Stack** project where users can:
 
 ✅ Enter their name and login  
 ✅ Cast their vote for available options  
 ✅ View results after voting  
+
+### Demo Video
+Watch the working app here: [Voting App Demo Video](https://drive.google.com/file/d/1H-zpHaozdFWOgf1uYRU5SupaVFUqDRIo/view?usp=sharing)
 
 ### Tech Stack:
 - **Frontend:** React, React Router, Axios  
@@ -14,4 +15,14 @@ A simple and beginner-friendly **MERN Stack** project where users can:
 - **Database:** MongoDB  
 - **Other:** CORS, dotenv, Axios  
 
-This project is perfect for learning how frontend and backend communicate using REST APIs.
+### Features:
+- User login and vote submission  
+- Live results display  
+- Easy-to-understand MERN stack implementation  
+
+### Notes:
+- Make sure MongoDB is running locally or provide connection string in `.env` file.  
+- Install dependencies using `npm install` in both frontend and backend folders.  
+- Start backend: `npm start` 
+- Start frontend: `npm start`  
+
