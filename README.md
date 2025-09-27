@@ -1,5 +1,7 @@
 # 🗳️ Voting App
 
+🎬 **Demo Video:** [Watch Demo](https://drive.google.com/file/d/1H-zpHaozdFWOgf1uYRU5SupaVFUqDRIo/view?usp=drive_link)
+
 A simple and beginner-friendly **MERN Stack** project where users can:
 
 ✅ Enter their name and login  
